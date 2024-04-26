@@ -1,6 +1,6 @@
 # Random-Generator
 This desktop app creates a tkinter GUI application that generates random stoic quotes, compliments, jokes, motivational quotes, and random facts upon button click.
-https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/9d692ca9-6837-4030-8275-253ac9caf5d4
+![image](https://github.com/MiguelAngelHorta/Random-Generator/assets/106134627/72a9420e-0b70-4a3e-a2d2-07f018f6f661)
 
 #### Summary of Functions:
 
